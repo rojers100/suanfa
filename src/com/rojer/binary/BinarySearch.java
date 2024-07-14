@@ -1,4 +1,4 @@
-package com.rojer;
+package com.rojer.binary;
 
 public class BinarySearch {
 
